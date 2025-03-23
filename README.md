@@ -1,7 +1,3 @@
-Here’s a well-structured description for your **Movie Genre Classification** project. You can use this in your `README.md` file or for submission purposes:
-
----
-
 # Movie Genre Classification
 
 ## Project Overview
@@ -70,7 +66,7 @@ ID ::: Title ::: Genre ::: Description
 ---
 
 ## Results
-- The trained model achieves an **accuracy of X%** on the validation set.
+- The trained model achieves an **accuracy of 49%** on the validation set.
 - The most important features (words) for each genre are identified, providing insights into the model's decision-making process.
 
 ---
@@ -148,7 +144,3 @@ Movie Genre/
 - **Pandas** (for data manipulation)
 - **Matplotlib/Seaborn** (for visualization)
 - **Joblib** (for saving models)
-
----
-
-This description provides a comprehensive overview of your project, making it easy for others to understand and replicate. Let me know if you need further adjustments!
